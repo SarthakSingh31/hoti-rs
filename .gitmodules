@@ -1,0 +1,3 @@
+[submodule "rust-av"]
+	path = rust-av
+	url = git@github.com:rust-av/rust-av.git
